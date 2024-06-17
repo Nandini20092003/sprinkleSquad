@@ -1,6 +1,6 @@
 # Responsive Landing Page
 
-This is a responsive landing page with an interactive navigation menu. The navigation menu changes its style when scrolled or hovered over.
+This is a responsive landing page of cakes and bakery products with an interactive navigation menu. The navigation menu changes its style when scrolled or hovered over.
 
 ## Technologies Used
 
